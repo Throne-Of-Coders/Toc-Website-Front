@@ -6,14 +6,16 @@ module.exports = {
                 poppins: ["Poppins", "sans-serif"],
             },
             colors: {
-                darkBlue: "#315DA8",
+                darkBlue: "#3380a5",
                 darkGray: "#D2D2D2",
                 textLightBlue: "#0098CC",
                 textDarkGrey: "#71706F",
                 lightGray: "#F5F5F5",
-                lightBlue: "#9DD6EA",
+                lightBlue: "#76bbeb",
                 orange: '#E34211',
-                yellow: "#fcd404"
+                yellow: "#fcd404",
+                pink: "#f374f5",
+                purple: "#6d50b3",
             },
         },
         screens: {

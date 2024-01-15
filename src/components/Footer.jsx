@@ -4,8 +4,6 @@ import tw from "tailwind-styled-components";
 //images
 
 const FooterWrapper = tw.footer`
-  absolute
-  bottom-0
   flex 
   flex-row
   py-8
@@ -16,14 +14,12 @@ const FooterWrapper = tw.footer`
   space-x-2
   md:px-4
   px-2
-  mt-16
 `;
 
 const FooterItem = tw.div`
 xl:flex-1
 text-center
 px-2
-
 `;
 
 const ItemTitle = tw.h1`
